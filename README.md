@@ -62,10 +62,9 @@ or(f1,p,q,r);
 **Output:**
 ![ED 2 2](https://github.com/Prakash-Chandran/BOOLEAN_FUNCTION_MINIMIZATION/assets/147120899/afd6e471-c52a-41d2-8a86-3810e43c3d4f)
 
-**RTL**
-![ED 2 3](https://github.com/Prakash-Chandran/BOOLEAN_FUNCTION_MINIMIZATION/assets/147120899/bc384c43-d741-4462-b3da-d608e0a5ba4a)
-
 **Timing Diagram**
+![2](https://github.com/Prakash-Chandran/BOOLEAN_FUNCTION_MINIMIZATION/assets/147120899/780ea31d-6d16-4e1e-8d4d-67f6457e1742)
+
 
 **Result:**
 
